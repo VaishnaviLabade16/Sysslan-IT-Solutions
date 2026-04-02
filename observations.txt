@@ -1,0 +1,13 @@
+ Key Observations:
+
+1.The dataset contains a large number of train records, indicating high railway activity.
+
+2.The average journey duration of trains is approximately ___ (fill your value).
+
+3.Certain stations like (top station name from your output) have the highest train frequency, making them major railway hubs.
+
+4.The top 10 stations handle a significant portion of total train traffic.
+
+5.Some stations have very low train frequency, indicating less connectivity.
+
+6.There is a clear variation in train distribution across different stations.
